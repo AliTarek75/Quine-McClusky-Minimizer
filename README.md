@@ -2,7 +2,7 @@
 
 A custom Python implementation of the Quine-McCluskey algorithm for minimizing Boolean functions.
 
-I built this as a student project to challenge myself: no external libraries, just pure Python logic. It takes a list of minterms and outputs the simplified Boolean equation. It is probably inefficient in some areas, So if you find any errors or unexpected outputs. Feel free to report them. 
+I built this as a student project to challenge myself: no external libraries, just pure Python logic. It takes a list of minterms and outputs the simplified Boolean equation. It is probably very inefficient in some areas, So if you find any errors or unexpected outputs. Feel free to report them. 
 
 ## What it does
 * Converts complex truth tables made from minterms and don't cares into the simplest possible equations.
